@@ -1,6 +1,4 @@
-Вот готовый `README.md` файл для вашего проекта:
 
-```markdown
 # EcoQuests - Геоквесты по очистке территории
 
 ![EcoQuests Logo](https://via.placeholder.com/150x50?text=EcoQuests)
